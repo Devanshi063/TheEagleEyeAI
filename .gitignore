@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+backend/evidence_frames/*.jpg
+backend/evidence_frames/*.png
+models/*.pt
+*.egg-info/
+dist/
+.DS_Store
